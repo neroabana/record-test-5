@@ -4,7 +4,6 @@ import RecordTable from "./components/RecordTable";
 import "./styles/App.css";
 
 let people = [
-
   {
     name: "Veronica Mize",
     dob: "11/29/2011",
