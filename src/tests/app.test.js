@@ -6,11 +6,9 @@ import RecordTable from "./RecordTable";
 
 describe("The rendition of <Filter>", () => {  
   test("if the 'Name' label renders correctly", () => {
-
     const { getByText } = render(<Filter />);
     const myVar = getByText(/Name/);
     expect(myVar).toBeInTheDocument;
-
   });
 
   test("if the 'Age' label renders correctly", () => {
