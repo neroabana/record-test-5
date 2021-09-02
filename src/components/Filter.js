@@ -3,6 +3,7 @@ import {PropTypes} from "prop-types";
 import "../styles/Filter.css";
 
 const Filter = ({sortName, sortAge}) => {
+  
   return (
     <>
       <div id="control-box">
