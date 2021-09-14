@@ -1,5 +1,4 @@
 body {
-
   background-color: #cce6ff;
   display: flex;
   justify-content: center;
@@ -25,6 +24,7 @@ body {
 }
 
 #filter-box {
+  
   width: 70%;
   margin-top: 0.6em;
   margin-bottom: 0.6em;
