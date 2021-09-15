@@ -6,6 +6,7 @@ const Filter = ({sortName, sortAge}) => {
   
   return (
     <>
+    
       <div id="control-box">
         <div id="control-name">
           <input
@@ -31,6 +32,7 @@ const Filter = ({sortName, sortAge}) => {
 };
 
 Filter.propTypes = {
+  
   sortName: PropTypes.func,
   sortAge: PropTypes.func,
 };
