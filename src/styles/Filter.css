@@ -1,12 +1,14 @@
+
+
 #control-box {
   display: flex;
   justify-content: center;
   font-weight: bold;
   font-size: 1.2em;
 }
-#control-name {
-  margin-right: 0.7em;
-}
 #control-age {
   margin-right: 1em;
+}
+#control-name {
+  margin-right: 0.7em;
 }
