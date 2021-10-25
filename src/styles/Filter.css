@@ -1,11 +1,11 @@
 
-
 #control-box {
   display: flex;
   justify-content: center;
   font-weight: bold;
   font-size: 1.2em;
 }
+
 #control-age {
   margin-right: 1em;
 }
