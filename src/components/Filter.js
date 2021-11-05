@@ -4,8 +4,7 @@ import "../styles/Filter.css";
 
 const Filter = ({sortName, sortAge}) => {  
   return (
-    <>
-    
+    <>    
       <div id="control-box">
         <div id="control-name">
           <input
