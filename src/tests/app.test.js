@@ -6,7 +6,6 @@ import Filter from "./Filter";
 import RecordTable from "./RecordTable";
 
 describe("The rendition of <Filter>", () => {  
-
   test("if the 'Name' label renders correctly", () => {
     const { getByText } = render(<Filter />);
     const myVar = getByText(/Name/);
